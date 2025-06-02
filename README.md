@@ -1,4 +1,4 @@
-# Face Recognition with Eigenfaces Application
+# Face Recognition Application
 
 This application is a user-friendly face recognition system using the Eigenfaces method, built with Python and PyQt. It provides an interactive graphical interface for loading, preprocessing, and recognizing faces from images. All core algorithms—including PCA for eigenface computation, face detection, feature extraction, and classification—are implemented from scratch, without relying on external libraries like OpenCV for the main recognition logic.
 
@@ -83,12 +83,6 @@ cd Task5-Face-Recognition
 pip install -r requirements.txt
 python main.py
 ```
-
----
-
-## Testing Face Extraction
-
-To visualize and test the face extraction pipeline on sample images, you can uncomment and run the `test_face_extractor()` function in `src/face_extractor.py`. This will process a few images and save a result grid to `results/face_extraction_results.png`.
 
 ---
 
