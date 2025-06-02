@@ -99,7 +99,6 @@ python main.py
 
 - [Eigenfaces for Recognition (Turk & Pentland, 1991)](https://www.face-rec.org/algorithms/PCA/jcn.pdf)
 - [PyQt Documentation](https://www.riverbankcomputing.com/static/Docs/PyQt5/)
-- [Yale Face Database](http://vision.ucsd.edu/content/yale-face-database)
 
 *You can also have a look at our [report](https://drive.google.com/file/d/1pJwwHaWgvvk8AdPfNX74vb7-3rU-OHxX/view?usp=sharing)*
 
