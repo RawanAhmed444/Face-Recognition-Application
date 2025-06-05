@@ -23,8 +23,6 @@ This application is a user-friendly face recognition system using the Eigenfaces
   - User-friendly PyQt interface for loading datasets, training, testing, and visualizing results.
   - Gallery view for mean face, eigenfaces, and recognition results.
 
-_All core face detection, PCA, and recognition algorithms are implemented from scratch, without using OpenCV for the main processing steps in Python._
-
 ---
 
 ## Project Structure
